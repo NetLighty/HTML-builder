@@ -46,5 +46,5 @@ function deleteFilesCopy(path){
 }
 
 createFilesCopyDir();
-deleteFilesCopy('.\\04-copy-directory\\files-copy');
+deleteFilesCopy('.\\04-copy-directory\\files-copy')
 copyFiles('.\\04-copy-directory\\files');
