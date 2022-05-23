@@ -1,5 +1,6 @@
 {
   "name": "html-builder",
+  "type": "module",
   "version": "1.0.0",
   "description": "html-builder task for RSSchool",
   "scripts": {
